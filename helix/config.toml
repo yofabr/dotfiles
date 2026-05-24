@@ -1,1 +1,9 @@
-theme="everforest_dark_hard"
+theme = "catppuccin_mocha"
+
+[editor]
+line-number = "relative"
+
+
+[keys.normal]
+"C-s" = ":w"       # Maps Ctrl + S to save
+"space" = { w = ":w" } # Maps Space + w to save quickly
