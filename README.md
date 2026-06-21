@@ -1,9 +1,8 @@
 # Dotfiles
 
-My personal configuration files for a customized terminal, Neovim, and GNOME environment.  
+Personal config files for a customized Linux setup.
 
-## Includes
 - Terminal UI tweaks
-- Neovim setup and plugins
-- GNOME settings and extensions
-- Other useful Linux configs
+- Neovim config & plugins
+- GNOME settings & extensions
+- Misc Linux configs
